@@ -1,0 +1,50 @@
+body{
+  background-color: #FFD400
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+.btn{
+    background-color: #FFD400 !important;
+}
+
+#btnenviar{
+    background-color: white;
+    color: black !important;
+
+}
+header{
+   background-color: #FFD400
+}
+nav{
+  text-align: right;
+  padding-bottom:40px ;
+  
+}
+nav > a{
+  font-family: 'Roboto Slab', serif;
+  font-size: 25px;
+  padding-left:5px;
+  color: #337AB7;
+  text-decoration: none;
+
+}
+h1#logo{
+  font-family: 'Roboto Slab', serif;
+  font-size: 60px;
+  padding-top: 50px;
+  padding-left: 40px;
+}
+.acess{
+  background-color: #FFD400
+}
+section{
+  background-color: white;
+  padding-bottom: 5px;
+}
+p#endereço{
+ text-align: center;
+}
+
+
+
+
